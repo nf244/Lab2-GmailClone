@@ -1,1 +1,1 @@
-![App Demo](images/Lab2Demo.gif)
+![App Demo](Lab2Demo.gif)
